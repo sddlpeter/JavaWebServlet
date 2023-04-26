@@ -1,4 +1,4 @@
-This is a simulation of creating servlet principal, and cooperate with SUN company, Java developers.
+### This is a simulation of creating servlet principal, and cooperate with SUN company, Java developers.
 
 
 use command 
