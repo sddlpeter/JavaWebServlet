@@ -2,10 +2,10 @@ This is a simulation of creating servlet principal, and cooperate with SUN compa
 
 
 use command 
-java -d . Servlet.java 
+`java -d . Servlet.java `
 to complile java file and generate paths.
 
 
 use command 
-java org.apache.Tomcat 
+`java org.apache.Tomcat`
 to run the main method of Tomcat.
